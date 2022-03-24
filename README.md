@@ -1,2 +1,3 @@
-# coool-blog-admin
-The blog admin.
+# Cooool Blog Admin
+
+The CoooolBlog project admin.
